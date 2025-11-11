@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "C:/Users/User/Downloads/ping pong/ghost_Busters/include/glm/glm",
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "khrplatform.h": "c"
+    }
+}
